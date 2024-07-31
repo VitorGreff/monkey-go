@@ -28,7 +28,7 @@ const (
 	ILLEGAL = "ILLEGAL"
 	EOF     = "EOF"
 
-	// user identifiers
+	// identifiers
 	IDENT = "IDENT"
 	INT   = "INT"
 
